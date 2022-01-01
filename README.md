@@ -109,7 +109,7 @@ Case Study Template
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve? Investing with s[pare change. ]
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
