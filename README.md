@@ -95,15 +95,16 @@ Case Study Template
 
 ## Overview and Origin
 
-* Name of company
+* raiz
 
-* When was the company incorporated?
+* Raiz Invest Limited was incorporated in 2016 and is based in Sydney.
 
-* Who are the founders of the company?
+* The company founder is George Lucas. 
 
-* How did the idea for the company (or project) come about?
+* Veteren Sydney fund manager George Lucas had been considering the idea of a micro-investing venture in Australia since 2012. He did a deal with US pioneer Acorns, which provides first-time investors access to markets using an ingenious method of rounding up purchases to the nearest dollar, investing the pocket change or “acorns” in low-cost passive exchange-traded funds (ETFs).
 
-* How is the company funded? How much funding have they received?
+* The company is funded by institutional placement and has raised a total of 16 million of funding over two rounds, their lastest funding was raised on November 30, 2021 from a post-IPO equity round. 
+
 
 
 ## Business Activities:
