@@ -91,29 +91,31 @@ We recommend that you use the case study template below in order to focus your r
 Note: If you have chosen a project within a larger company (such as the Apple Credit Card), you may want to focus your research on the origins and scope of the project rather than on the company itself.
 
 Case Study Template
-# TITLE
+# Fintech Case Study
 
-## Overview and Origin
+## Overview and Background:
 
-* raiz
+* Raiz Invest Limited.
 
-* Raiz Invest Limited was incorporated in 2016 and is based in Sydney.
+* Raiz was incorporated in 2016 and is based in Sydney, NSW Australia.
 
 * The company founder is George Lucas. 
 
-* Veteren Sydney fund manager George Lucas had been considering the idea of a micro-investing venture in Australia since 2012. He did a deal with US pioneer Acorns, which provides first-time investors access to markets using an ingenious method of rounding up purchases to the nearest dollar, investing the pocket change or “acorns” in low-cost passive exchange-traded funds (ETFs).
+* Since 2012, Sydney fund manager George Lucas has been contemplating launching a micro-investing company in Australia. He joined forces with Acorns, a US company that gives first-time investors access to the markets by rounding up purchases to the closest dollar then investing the change in low-cost passive exchange traded funds.
 
-* The company is funded by institutional placement and has raised a total of 16 million of funding over two rounds, their lastest funding was raised on November 30, 2021 from a post-IPO equity round. 
+* The company is backed by institutional investors and has raised a total of 16 million in two rounds of funding. Their most recent capital came from a post-IPO equity round on November 30, 2021.
 
 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve? Investing with s[pare change. ]
+* Raiz is a financial service that assists you in saving and investing. They make it possible for Australians to start saving early, invest frequently, and achieve their financial goals.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+Raiz's target market is a young person's first savings and investment platform aimed at Gen Y and Z which make up the largest generations currently in Australia's workforce. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+* No account minimums, no commissions, and fractional investing all in your pocket. Raiz aims to make investing more accessible to everyone while also making saving simple. Raiz works by allowing you to put small sums of money into a diversified portfolio of assets. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
