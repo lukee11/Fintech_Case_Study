@@ -75,13 +75,14 @@
 
 * Portfolio perfomance (after fees) is used to measure success and then comparing the results to an industry benchmark. Compared to the ASX index, robo advisors do not generally outperform the market as they are adjusted to your needs and risk tolerance with a percentage of defensive assets like bonds to reduce account volatility.
 
-    ![Perfomance_tale](Perfomance.png)
+    ![Perf](Per.PNG)
+
 
 * Raiz has performed comparatively with similar products in this domain. 
     
     Stockspot perfomance table over the same period below. 
 
-    ![stockspot](stockspot.png)
+    ![ss](ss.PNG)
 
 ## Recommendations:
 
