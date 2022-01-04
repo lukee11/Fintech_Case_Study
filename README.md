@@ -98,7 +98,7 @@
 
 * The above recommendations would require expanding existing back-office technology to access other assets, execution, monitoring and machine learning to refine the adjustments. 
 
-* These tecchnolgies are suitable as they are only minor additions and upgrades to the current platform. 
+* These technologies are suitable as they are only minor additions and upgrades to the current platform. 
 
 ## References:
 
