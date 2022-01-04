@@ -96,7 +96,7 @@
 
 * I believe offering these products and services would give the user greater flexibility as they become a more experience investor. 
 
-* The above recommendations would require the expansion of existing back office technology to access other assets, execution and monitoring. 
+* The above recommendations would require expanding existing back-office technology to access other assets, execution, monitoring and machine learning to refine the adjustments. 
 
 * These tecchnolgies are suitable as they are only minor additions and upgrades to the current platform. 
 
