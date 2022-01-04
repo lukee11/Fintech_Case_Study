@@ -100,8 +100,6 @@
 
 * These tecchnolgies are suitable as they are only minor additions and upgrades to the current platform. 
 
----     
-
 ## References:
 
 Raiz Invest Limited (RZI.AX) company profile & facts – Yahoo Finance n.d., au.finance.yahoo.com, viewed 30 December 2021, <https://au.finance.yahoo.com/quote/RZI.AX/profile/>.
