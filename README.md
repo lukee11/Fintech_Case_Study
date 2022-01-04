@@ -1,313 +1,129 @@
-# Homework-Unit-1
-First homework assignment
-Unit 1 Homework Assignment: FinTech Case Study
 
-Background
-As a FinTech professional, it is critical to learn how FinTech companies start, evolve, and grow, and to be able to speak knowledgeably about the major players in the FinTech space. Even those in a highly technical role must stay abreast of what is happening in the business landscape, as many FinTech companies create tools and technologies that are then used by other companies.
-One of the key methods used to conduct corporate analysis is the case study. Case studies are often 50–100 pages or more, but your task is to create a more focused case study that analyzes how a Canadian FinTech company is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem in Canada.
-In this homework assignment, you will:
+# Fintech Case Study    
 
-
-Select a FinTech domain that interests you, and then choose a Canadian company or project within that domain.
-
-
-Research the domain and company.
-
-
-Write a detailed case study of the company.
-
-
-Upload your case study to your git repository.
-
-
-This assignment will challenge you to polish your FinTech research skills by accessing reports, publications, and online resources that FinTech professionals use to evaluate the industry.
-It will also help you situate the techniques and technologies you will be mastering in this course––e.g., machine learning, Python, modeling, blockchain––within the real world of global FinTech. Finally, it will give you practice presenting and speaking about FinTech strategy and technology.
-
-
-Instructions
-
-1. Choose a FinTech domain that you find relevant or interesting
-Note: We covered a number of FinTech domains in class this week. If you already have a Canadian company in mind that you want to research, skip ahead to Step 3.
-
-
-Payments/Billing
-
-
-Capital Investment
-
-
-Investment Management
-
-
-Wealth Management
-
-
-Enterprise Solutions
-
-
-Insurance (InsurTech)
-
-
-Mortgage/Real Estate
-
-
-Personal Finance/Deposits/Online Banking
-
-
-Lending
-
-
-Blockchain and Cryptocurrencies
-
-
-Regulation Technology (RegTech)
-
-
-Open Banking
-
-
-Robo-advising
-
-
-Remember that because FinTech is an evolving field, different FinTech reports may use different names and definitions for various domains and sectors (e.g., CB Insights, Investopedia, Accenture). In addition, you may come across lists of FinTech domains online that are either longer or shorter than the list above; there is no one comprehensive list.
-
-2. Choose a Canadian company (or project) within  your chosen FinTech domain
-Use online research tools to identify the trends in your domain in the Canadian market, and choose a Canadian company that is successful or otherwise interesting to you. For example, if you chose Wealth Management, you may want to look at online journals, periodicals, reports, and websites about the future of Wealth Management, or how FinTech is changing or disrupting Wealth Management in Canada.
-Your company could be:
-
-
-A new, emerging Canadian FinTech company that is doing well in a particular domain. Examples include Coinsquare, Borrowell, Shopify, or Finaeo.
-
-
-A large incumbent financial or technology company that is doing something interesting and new with technology. Examples include: National Bank of Canada Blockchain, Goldman Sachs’ Marcus, JP Morgan’s JPMCoin, Facebook Libra, and Apple Card.
-
-
-A smaller start-up that is not yet wildly successful, but that you find promising and interesting. This may include a FinTech company in your local area or a company with a new idea that you would like to learn more about.
-
-
-
-3. Conduct your research, using the case study template as a guide
-We recommend that you use the case study template below in order to focus your research. You may lengthen, shorten, or––if necessary––remove sections from the template to accommodate the information available about your company.
-Note: If you have chosen a project within a larger company (such as the Apple Credit Card), you may want to focus your research on the origins and scope of the project rather than on the company itself.
-
-Case Study Template
-# Fintech Case Study
+![raiz_image](logo.png)    
 
 ## Overview and Background:
 
-* Raiz Invest Limited.
+###  *Raiz Invest Limited*
 
-* Raiz was incorporated in 2016 and is based in Sydney, NSW Australia.
+* Raiz (ASX:RZI) was incorporated in 2016 and is based in Sydney, Australia.
 
 * The company founder is George Lucas. 
 
-* Since 2012, Sydney fund manager George Lucas has been contemplating launching a micro-investing company in Australia. He joined forces with Acorns, a US company that gives first-time investors access to the markets by rounding up purchases to the closest dollar then investing the change in low-cost passive exchange traded funds.
+* Since 2012, Sydney fund manager George Lucas has contemplated launching a micro-investing company in Australia. He joined forces with Acorns, a US company that gives first-time investors access to the markets by rounding up purchases to the closest dollar then investing the change in low-cost passive exchange-traded funds.
 
-* The company is backed by institutional investors and has raised a total of 16 million in two rounds of funding. Their most recent capital came from a post-IPO equity round on November 30, 2021.
+    ![coffee image](coffee.png)
 
-
+* The company is backed by institutional investors and has raised a total of 16 million in two funding rounds. Their most recent capital came from a post-IPO equity round on November 30, 2021.
 
 ## Business Activities:
 
-* Raiz is a financial service that assists you in saving and investing. They make it possible for Australians to start saving early, invest frequently, and achieve their financial goals.
+* Raiz is a financial service that assists you in getting into the habit of saving and investing. They make it possible for Australians to start saving early, invest frequently, and achieve their financial goals. With the guidance of Nobel prize winner and creator of Modern Portfolio Theory, Dr Harry Markowitz, Raiz builds and optimises seven diversified portfolios. ETFs listed on the Australian Securities Exchange are used to build the portfolios. 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-Raiz's target market is a young person's first savings and investment platform aimed at Gen Y and Z which make up the largest generations currently in Australia's workforce. 
+* Raiz pioneered micro-investing, allowing a new class of investors to participate. The platform is aimed at Gen Y and Z, which make up the largest generations currently in Australia's workforce.
+    
+    The Fund is for investors who want to invest in multi-asset portfolios for as little as $5.00; 
 
+    have a diversified investment approach;
 
-* No account minimums, no commissions, and fractional investing all in your pocket. Raiz aims to make investing more accessible to everyone while also making saving simple. Raiz works by allowing you to put small sums of money into a diversified portfolio of assets. 
+    are in their accumulation, pre-retirement, or retirement life stage;
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+    are looking for an investment product that provides options for low, medium, high, and very high risk and return trade-offs;
+
+    and are looking to purchase an investment product through a direct online channel without receiving personal financial advice. 
+    
+
+* Raiz offers no account minimums, no commissions, and fractional investing all in your pocket. Raiz aims to make investing more accessible to everyone while also simplifying saving. 
+
+* Raiz's investment platform has made micro-investing possible. The asset allocation is algorithmic, and the patented back-end technologies combine order processing and settlement activities, repopulating data via the cloud. Everything is kept on a remote server with bank-level security and data encryption.
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Raiz is a micro-investment robo-advising fintech company. 
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+*   The popularity of automated investment platforms, sometimes known as robo-advisers, has skyrocketed in the recent decade. Investors who use these services answer a few questions regarding their risk tolerance,   savings goals, and time frame. They are given a portfolio that includes instructions on how often and how much they should contribute, as well as a visual representation of the chances of fulfilling their goals.
 
-* What are the other major companies in this domain?
+    The emergence of trustworthy, tested services has been hastened by the convergence of technology-led services and the growth of Australia's ETF market. In Australia, robo-advice has benefited from a lack of cheap expert guidance as well as a lack of financial diversification among many investors.
 
-## Results
+    The benefit of robo-advising investing is that it can be less than half the expense of seeing a traditional adviser and investing in actively managed funds.
 
-* What has been the business impact of this company so far?
+    One of the essential aspects when choosing an investment provider is the low costs. The benefit of robo-advising investing is that it can be less than half the expense of seeing a traditional adviser and investing in actively managed funds.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
+* Other Australian companies involved in this domain are:
+    
+    [Stockspot](https://www.stockspot.com.au/) 
 
-## Recommendations
+    [Six Park](https://www.sixpark.com.au/)
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+    [OpenInvest](https://www.openinvest.com.au/)
 
-* Why do you think that offering this product or service would benefit the company?
+    [Spaceship Voyager](https://www.spaceship.com.au/voyager/)
 
-* What technologies would this additional product or service utilize?
+    [Shareies](https://sharesies.com.au/)
 
-* Why are these technologies appropriate for your solution?
+    [InvestSMART](https://www.investsmart.com.au/)
 
-4. Write the case study
-Write the finished case study report in a markdown README.md file, using the above case study template. Your report should be sufficiently long to ensure you provide all relevant information about the company or project in a thorough manner.
-Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page.
+    [Quiet Growth](https://www.quietgrowth.com.au/)
 
-5. Upload your case study to your git repository
-You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
+    [Pearler](https://pearler.com/)
 
+## Results:
 
-Resources
+* Raiz has disrupted the financial industry due to its low costs, fractional investing and accessibility compared to traditional financial advisers. 
 
-FinTech Companies and Domains
-For an overview of some of the most successful companies across FinTech domains, check out these resources:
+* Portfolio perfomance (after fees) is used to measure success and then comparing the results to an industry benchmark. Compared to the ASX index, robo advisors do not generally outperform the market as they are adjusted to your needs and risk tolerance with a percentage of defensive assets like bonds to reduce account volatility.
 
+    ![Perfomance_tale](Perfomance.png)
 
-Canada has a rosy future in fintech, but obstacles remain, expert says
+* Raiz has performed comparatively with similar products in this domain. 
+    
+    Stockspot perfomance table over the same period below. 
 
+    ![stockspot](stockspot.png)
 
-Canadian fintech adoption rate hits 50 per cent, but still trails global peers: EY
+## Recommendations:
 
+* Some products and services I would personally like that aren't currently offered by Raiz are: 
 
-The 2019 Canadian fintech market map
+    Aside from ETFs, the abilitiy to invest in other assets.
 
+    An option to rebalance your portfolio to a defensive allocation if the market conditions deteriorate quickly. 
 
-Canadian Fintech Industry Set to Witness Strong Grow: Report
+    Increased crypto exposure in portfolios. The current crypto portfolio (Saphire) only allocates 5% to Bitcoin. 
 
+* I believe offering these products and services would give the user greater flexibility as they become a more experience investor. 
 
-Introducing The FinTech Landscape In Canada
+* The above recommendations would require the expansion of existing back office technology to access other assets, execution and monitoring. 
 
+* These tecchnolgies are suitable as they are only minor additions and upgrades to the current platform. 
 
-Status of the Canadian FinTech Landscape
+---     
 
+## References:
 
-The Canadian Fintech Ecosystem Map
+Raiz Invest Limited (RZI.AX) company profile & facts – Yahoo Finance n.d., au.finance.yahoo.com, viewed 30 December 2021, <https://au.finance.yahoo.com/quote/RZI.AX/profile/>.
 
+Raiz App n.d., viewed 30 December 2021, <https:www.raizinvest.com.au>.
 
-World FinTech Report 2019, Capgemini
+Raiz (company) 2021, Wikipedia, viewed 30 December 2021, <https://en.wikipedia.org/wiki/Raiz_(company)>.
 
+Crunchbase 2015, Crunchbase, viewed 1 January 2022, <https://www.crunchbase.com/organization/raiz-invest>.
 
-The Most Innovative FinTech Companies in 2019, Forbes
+Raiz founder prevails in boardroom row 2021, Australian Financial Review, viewed 1 January 2022, <https://www.afr.com/companies/financial-services/raiz-founder-prevails-in-boardroom-row-20210919-p58sww>.
 
+4 robo adviser trends in 2022 that will help your future retirement 2021, www.morningstar.com, viewed 1 January 2022, <https://www.morningstar.com/news/marketwatch/20211220295/4-robo-adviser-trends-in-2022-that-will-help-your-future-retirement.>.
 
-The Future of FinTech and Banking, Accenture
+Brycki, C 2021, How Stockspot outperformed Vanguard and robo advisors, Stockspot Blog, viewed 2 January 2022, <https://blog.stockspot.com.au/best-robo-advisor/>.
 
+5 of Australia’s Most Popular Robo-Advisors n.d., viewed 2 January 2022, <https://roboadvisors.com.au/australias-popular-robo-advisors/>.
 
-Scanning the FinTech Landscape: 10 Disruptive Models, McKinsey & Company
+Boring is the new black for online investors 2021, Australian Financial Review, viewed 2 January 2022, <https://www.afr.com/wealth/investing/boring-is-the-new-black-for-fintech-investors-20210409-p57hvi>.
 
+Do Robo Advisors Beat The Market? Robo Advisor Performance Uncovered n.d., Liberated Stock Trader, viewed 3 January 2022, <https://www.liberatedstocktrader.com/do-robo-advisors-beat-the-market/>.
 
+Raiz Portfolio Performance Financial Year 2020-21 2021, Raiz Invest, viewed 4 January 2022, <https://raizinvest.com.au/blog/raiz-portfolio-performance-financial-year-2020-21/>.
 
-Research Material
-As you research your company, you may find these types of resources to be useful:
+Australian Investing App Performance - WealthDiary n.d., viewed 4 January 2022, <https://wealthdiary.com.au/investing/performance/>.
 
-
-The company’s website
-
-
-The company’s blog
-
-
-Company press releases (These can often be found on the Press page of the company's website, or via Google search.)
-
-
-Websites of competitors
-
-
-FinTech blogs and/or podcasts
-
-
-Interviews with the company’s founders, CTOs, or project leads
-
-
-Reports devoted to the particular FinTech domain you are focusing on (e.g.,  FinTech in the mortgage industry)
-
-
-Additionally, other online sources may be helpful, such as the examples you see here:
-
-
-Forbes
-
-
-McKinsey & Company
-
-
-Reuters
-
-
-TechCrunch
-
-
-Deloitte
-
-
-Built In
-
-
-FinTech Weekly
-
-
-KPMG
-
-
-Stackshare
-
-
-Crunchbase
-
-
-Angelist
-
-
-
-
-Submission
-
-
-Create a repository for this homework on GitHub.
-
-
-Upload the README file containing your case study report to this repository.
-
-
-Submit the link to your GitHub repository to Bootcamp Spot.
-
-
-
-
-Requirements
-
-Company Information and Business Activities  (25 points)
-
-To receive all points, you must:
-
-Select a company in the FinTech domain to research. (5 points)
-Provide a detailed description of the company's domain, audience, solution and business metrics. (10 points)
-Present company information in a clear and well-organized manner. (10 points)
-
-
-FinTech Domain Trends (20 points)
-
-To receive all points, your code must:
-
-Communicate a thorough synopsis of trends and landmarks in the chosen FinTech domain. (10 points)
-Identify several major competitors. (10 points)
-
-
-Research Depth (15 points)
-
-To receive all points, your code must:
-
-Use multiple sources to present a thorough and cohesive view of the company's domain, history and results. (5 points)
-Specifically quote sources and reference them clearly and accurately. (10 points)
-
-
-Recommendations (20 points)
-
-To receive all points, your code must:
-
-Thoroughly explain company recommendations. (10 points)
-Base company recommendations in solid research. (10 points)
-
-
-Report Presentation (20 points)
-
-To receive all points, your report must include:
-
-Present the report in a ReadME.md file in a Github repository. (10 points)
-The report style showcases the writer's expertise and builds credibility. (10 points)
