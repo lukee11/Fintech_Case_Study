@@ -73,28 +73,28 @@
 
 * Raiz has disrupted the financial industry due to its low costs, fractional investing and accessibility compared to traditional financial advisers. 
 
-* Portfolio perfomance (after fees) is used to measure success and then comparing the results to an industry benchmark. Compared to the ASX index, robo advisors do not generally outperform the market as they are adjusted to your needs and risk tolerance with a percentage of defensive assets like bonds to reduce account volatility.
+* Portfolio performance (after fees) is used to measure success and then comparing the results to an industry benchmark. Compared to the ASX index, robo advisors do not generally outperform the market as they are adjusted to your needs and risk tolerance with a percentage of defensive assets like bonds to reduce account volatility.
 
     ![Perf](Per.PNG)
 
 
 * Raiz has performed comparatively with similar products in this domain. 
     
-    Stockspot perfomance table over the same period below. 
+    Stockspot performance table over the same period below. 
 
-    ![ss](ss.PNG)
+    ![ss](ss.PNG)gi
 
 ## Recommendations:
 
 * Some products and services I would personally like that aren't currently offered by Raiz are: 
 
-    Aside from ETFs, the abilitiy to invest in other assets.
+    Aside from ETFs, the ability to invest in other assets.
 
     An option to rebalance your portfolio to a defensive allocation if the market conditions deteriorate quickly. 
 
     Increased crypto exposure in portfolios. The current crypto portfolio (Saphire) only allocates 5% to Bitcoin. 
 
-* I believe offering these products and services would give the user greater flexibility as they become a more experience investor. 
+* I believe offering these products and services would give the user greater flexibility as they become a more experienced investor. 
 
 * The above recommendations would require expanding existing back-office technology to access other assets, execution, monitoring and machine learning to refine the adjustments. 
 
