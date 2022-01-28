@@ -82,7 +82,7 @@
     
     Stockspot performance table over the same period below. 
 
-    ![ss](ss.PNG)gi
+    ![ss](ss.PNG)
 
 ## Recommendations:
 
